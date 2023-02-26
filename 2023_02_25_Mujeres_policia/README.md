@@ -1,16 +1,20 @@
 # Participación de la mujer en la Policia Nacional de Colombia
 
+[\@GuiborCamargo](https://twitter.com/GuiborCamargo)
+
+------------------------------------------------------------------------
+
 🧵1/10 Participación de la 𝐦𝐮𝐣𝐞𝐫 en la @PoliciaColombia
 
 Tesis común en redes es q las mujeres "naturalmente" no escojen carreras dominadas tradicionalmente x hombres: 𝐟𝐮𝐞𝐫𝐳𝐚𝐬 𝐩𝐨𝐥𝐢𝐜𝐢𝐚𝐥𝐞𝐬 entre estas ¿Q muestran los datos?
 
-![](03_plots/01_distribuci%C3%B3n_acutal_de_generos.png){width="336"}
+![](03_plots/01_distribuci%C3%B3n_acutal_de_generos.png){width="252"}
 
 Hoy de 100 policias 16 son mujeres
 
 🧵2/10 𝐏𝐄𝐑𝐎 tambien hoy en día hay 6.754 mujeres más en la @PoliciaColombia q en el 2020 (un 34% más). Tambien se puede observar (a propósito tema aparte grave) una perdida de más de 14mil hombres en la fuerza policial del país.
 
-![](03_plots/02_evolucion_neta_de_policias_por_genero.png){width="525"}
+![](03_plots/02_evolucion_neta_de_policias_por_genero.png){width="375"}
 
 🧵3/10
 
@@ -32,7 +36,7 @@ Ademas, en las escuelas de formación, hoy en día el 43% de los estudiantes son
 
 Es cierto q este aumento en la participación se ha dado tambien x una pérdida de personal masculino (𝗮𝗹𝗴𝗼 𝗮 𝗹𝗼 𝗾𝘂𝗲 𝗵𝗮𝘆 𝗾 𝗽𝗮𝗿𝗮𝗿 𝗯𝗼𝗹𝗮𝘀).Aun así, hay aumentos netos en oficiales, en el nivel ejectuvo, en las escuelas y en servicio militar (auxiliares)
 
-![](03_plots/05_cambio_neto_muejeres_por_categoria.png){width="560"}
+![](03_plots/05_cambio_neto_muejeres_por_categoria.png){width="350"}
 
 🧵6/10 Algunos estudios como el de Raganella, A. J, et al (2004), han señalado q las aptitudes no son diferntes entre hombres y mujeres; sugiriendo q la composición mayoritariametne masculina esta más más relacionada con los procesos de incorporación q a diferencias de género.
 
