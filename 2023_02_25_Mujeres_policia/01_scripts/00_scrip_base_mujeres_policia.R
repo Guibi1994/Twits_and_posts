@@ -41,8 +41,9 @@ waffle(c(Muejres=16,Hombres = 84),
   theme_minimal()+
   theme(text = element_text(family = "serif"),
         legend.position = "bottom",
-        plot.subtitle = element_text(face = "italic",size = 6, color ="grey40"),
-        axis.text = element_blank())
+        plot.subtitle = element_text(face = "italic",size = 7, color ="grey40"),
+        axis.text = element_blank(),
+        plot.background = element_rect(fill = "white", color = "white"))
 
 ggsave("03_plots/01_distribución_acutal_de_generos.png",h = 5,w=4.2)
 
@@ -69,8 +70,9 @@ a0_raw_personal %>%
   theme_minimal()+
   theme(text = element_text(family = "serif"),
         legend.position = "bottom",
-        plot.subtitle = element_text(face = "italic",size = 6, color ="grey40"),
-        plot.caption = element_text(color = "grey45"))+
+        plot.subtitle = element_text(face = "italic",size = 7, color ="grey40"),
+        plot.caption = element_text(color = "grey45"),
+        plot.background = element_rect(fill = "white", color = "white"))+
 facet_wrap(.~sexo, scales = "free")
 
 
@@ -106,7 +108,8 @@ a0_raw_personal %>%
   theme_minimal()+
   theme(text = element_text(family = "serif"),
         legend.position = "bottom",
-        plot.subtitle = element_text(face = "italic",size = 6, color ="grey40"))
+        plot.subtitle = element_text(face = "italic",size = 7, color ="grey40"),
+        plot.background = element_rect(fill = "white", color = "white"))
 
 ggsave("03_plots/03_evolucion_participación_muejres.png",h=5,w=5)
 
@@ -127,7 +130,7 @@ a0_raw_personal %>%
   mutate(grupo = factor(grupo, levels = c
                         ("Oficiales","Suboficiales","Nivel ejecutivo",
                           "En formacion","Servicio militar",
-                          "Personal no uniformado")))# %>% 
+                          "Personal no uniformado"))) %>% 
   ggplot(aes(fecha, miembros))+
   geom_area(fill = "purple4",alpha=.4)+
   geom_point()+
@@ -142,13 +145,14 @@ a0_raw_personal %>%
   theme_minimal()+
   theme(text = element_text(family = "serif"),
         legend.position = "bottom",
-        plot.subtitle = element_text(face = "italic",size = 6, color ="grey40"))+
+        plot.subtitle = element_text(face = "italic",size = 7, color ="grey40"),
+        plot.background = element_rect(fill = "white", color = "white"))+
   facet_wrap(.~grupo, scales = "free")
 
 ggsave("03_plots/04_evolucion_participación_muejres_por_categoria.png",h=5,w=6)
 
 
-
+##
 a0_raw_personal %>% 
   group_by(fecha, grupo) %>% 
   summarise(across(hombres:mujeres,~sum(.,na.rm = T))) %>% 
@@ -190,6 +194,7 @@ a0_raw_personal %>%
   theme_minimal()+
   theme(text = element_text(family = "serif"),
         legend.position = "none",
-        plot.subtitle = element_text(face = "italic",size = 6, color ="grey40"))
+        plot.subtitle = element_text(face = "italic",size = 7, color ="grey40"),
+        plot.background = element_rect(fill = "white", color = "white"))
 
 ggsave("03_plots/05_cambio_neto_muejeres_por_categoria.png",h=5,w=7)
