@@ -1,0 +1,117 @@
+﻿fecha,Tipo,grupo,categoria,hombres,mujeres,total
+2020-03-27,Uniformado,Oficiales,General,2,0,2
+2020-03-27,Uniformado,Oficiales,Mayor General,12,0,12
+2020-03-27,Uniformado,Oficiales,Brigadier General,22,2,24
+2020-03-27,Uniformado,Oficiales,Coronel,208,35,243
+2020-03-27,Uniformado,Oficiales,Teniente Coronel,370,41,411
+2020-03-27,Uniformado,Oficiales,Mayor,1209,217,1426
+2020-03-27,Uniformado,Oficiales,Capitán,1682,326,2008
+2020-03-27,Uniformado,Oficiales,Teniente,1358,534,1892
+2020-03-27,Uniformado,Oficiales,Subteniente,973,365,1338
+2020-03-27,Uniformado,Nivel ejecutivo,Comisario,89,39,128
+2020-03-27,Uniformado,Nivel ejecutivo,Subcomisario,559,95,654
+2020-03-27,Uniformado,Nivel ejecutivo,Intendente Jefe,1954,154,2108
+2020-03-27,Uniformado,Nivel ejecutivo,Intendente,17624,398,18022
+2020-03-27,Uniformado,Nivel ejecutivo,Subintendente,10470,755,11225
+2020-03-27,Uniformado,Nivel ejecutivo,Patrullero,86032,10550,96582
+2020-03-27,Uniformado,Suboficiales,Sargento Mayor,82,25,107
+2020-03-27,Uniformado,Suboficiales,Sargento Primero,2,0,2
+2020-03-27,Uniformado,Suboficiales,Sargento Viceprimero,0,0,0
+2020-03-27,Uniformado,Suboficiales,Sargento Segundo,0,0,0
+2020-03-27,Uniformado,Suboficiales,Cabo Primero,0,0,0
+2020-03-27,Uniformado,Suboficiales,Cabo Segundo,0,0,0
+2020-03-27,Uniformado,Agentes,Agentes,355,5,360
+2020-03-27,Uniformado,En formacion,Alumnos (Oficial - N Ejec),6205,1651,7856
+2020-03-27,Uniformado,Servicio militar,Auxiliares de Policía,17413,1647,19060
+2020-03-27,Uniformado,Servicio militar,Auxiliares de Policía Bachiller,0,0,0
+2020-03-27,No uniformado,Personal no uniformado,PERSONAL NO UNIFORMADO,0,0,0
+2020-03-27,No uniformado,Personal no uniformado,No Uniformado Asesor,36,85,121
+2020-03-27,No uniformado,Personal no uniformado,No Uniformado Profesional,271,592,863
+2020-03-27,No uniformado,Personal no uniformado,No Uniformado Orientador,372,163,535
+2020-03-27,No uniformado,Personal no uniformado,No Uniformado Servidor MIsional,0,0,0
+2020-03-27,No uniformado,Personal no uniformado,No Uniformado Técnico ,266,607,873
+2020-03-27,No uniformado,Personal no uniformado,No Uniformado Asistencial,434,1333,1767
+2021-10-02,Uniformado,Oficiales,General,2,0,2
+2021-10-02,Uniformado,Oficiales,Mayor General,14,0,14
+2021-10-02,Uniformado,Oficiales,Brigadier General,21,3,24
+2021-10-02,Uniformado,Oficiales,Coronel,229,39,268
+2021-10-02,Uniformado,Oficiales,Teniente Coronel,320,29,349
+2021-10-02,Uniformado,Oficiales,Mayor,1405,262,1667
+2021-10-02,Uniformado,Oficiales,Capitán,1718,460,2178
+2021-10-02,Uniformado,Oficiales,Teniente,1282,427,1709
+2021-10-02,Uniformado,Oficiales,Subteniente,925,430,1355
+2021-10-02,Uniformado,Nivel ejecutivo,Comisario,110,42,152
+2021-10-02,Uniformado,Nivel ejecutivo,Subcomisario,440,65,505
+2021-10-02,Uniformado,Nivel ejecutivo,Intendente Jefe,1703,125,1828
+2021-10-02,Uniformado,Nivel ejecutivo,Intendente,18124,507,18631
+2021-10-02,Uniformado,Nivel ejecutivo,Subintendente,11400,1415,12815
+2021-10-02,Uniformado,Nivel ejecutivo,Patrullero,86299,10970,97269
+2021-10-02,Uniformado,Nivel ejecutivo,Carabinero,6,0,6
+2021-10-02,Uniformado,Suboficiales,Sargento Mayor,70,22,92
+2021-10-02,Uniformado,Suboficiales,Sargento Primero,1,0,1
+2021-10-02,Uniformado,Suboficiales,Sargento Viceprimero,0,0,0
+2021-10-02,Uniformado,Suboficiales,Sargento Segundo,0,0,0
+2021-10-02,Uniformado,Suboficiales,Cabo Primero,0,0,0
+2021-10-02,Uniformado,Suboficiales,Cabo Segundo,0,0,0
+2021-10-02,Uniformado,Agentes,Agentes,309,5,314
+2021-10-02,Uniformado,En formacion,Alferez,126,57,183
+2021-10-02,Uniformado,En formacion,Cadetes,205,111,316
+2021-10-02,Uniformado,En formacion,Alumno,2959,1805,4764
+2021-10-02,Uniformado,Servicio militar,Auxiliares de Policía,7667,1511,9178
+2021-10-02,No uniformado,Personal no uniformado,PERSONAL NO UNIFORMADO,1183,3019,4202
+2022-03-30,,Oficiales,General,2,0,2
+2022-03-30,,Oficiales,Mayor General,15,0,15
+2022-03-30,,Oficiales,Brigadier General,16,2,18
+2022-03-30,,Oficiales,Coronel,202,39,231
+2022-03-30,,Oficiales,Teniente Coronel,352,73,425
+2022-03-30,,Oficiales,Mayor,1513,188,1701
+2022-03-30,,Oficiales,Capitán,1688,534,2222
+2022-03-30,,Oficiales,Teniente,1202,399,1601
+2022-03-30,,Oficiales,Subteniente,759,438,1197
+2022-03-30,,Nivel ejecutivo,Comisario,140,40,180
+2022-03-30,,Nivel ejecutivo,Subcomisario,379,39,418
+2022-03-30,,Nivel ejecutivo,Intendente Jefe,1908,60,1968
+2022-03-30,,Nivel ejecutivo,Intendente,15226,492,15718
+2022-03-30,,Nivel ejecutivo,Subintendente,18626,1674,20300
+2022-03-30,,Nivel ejecutivo,Patrullero,76696,12193,88889
+2022-03-30,,Nivel ejecutivo,Carabinero,2,0,2
+2022-03-30,,Suboficiales,Sargento Mayor,35,13,48
+2022-03-30,,Suboficiales,Sargento Primero,0,0,0
+2022-03-30,,Suboficiales,Sargento Viceprimero,0,0,0
+2022-03-30,,Suboficiales,Sargento Segundo,0,0,0
+2022-03-30,,Suboficiales,Cabo Primero,0,0,0
+2022-03-30,,Suboficiales,Cabo Segundo,0,0,0
+2022-03-30,,Agentes,Agentes,244,4,248
+2022-03-30,,En formacion,Alferez,127,105,232
+2022-03-30,,En formacion,Cadetes,252,136,388
+2022-03-30,,En formacion,Alumno,7094,3350,10444
+2022-03-30,,Servicio militar,Auxiliares de Policía,11657,8053,19710
+2022-03-30,,Personal no uniformado,PERSONAL NO UNIFORMADO,1285,2952,4237
+2023-02-16,,Oficiales,General,1,0,1
+2023-02-16,,Oficiales,Mayor General,1,0,1
+2023-02-16,,Oficiales,Brigadier General,13,4,17
+2023-02-16,,Oficiales,Coronel,132,21,153
+2023-02-16,,Oficiales,Teniente Coronel,435,68,503
+2023-02-16,,Oficiales,Mayor,1611,248,1859
+2023-02-16,,Oficiales,Capitán,1781,577,2358
+2023-02-16,,Oficiales,Teniente,920,379,1299
+2023-02-16,,Oficiales,Subteniente,782,490,1272
+2023-02-16,,Nivel ejecutivo,Comisario,145,30,175
+2023-02-16,,Nivel ejecutivo,Subcomisario,378,48,426
+2023-02-16,,Nivel ejecutivo,Intendente Jefe,4123,72,4123
+2023-02-16,,Nivel ejecutivo,Intendente,11977,563,1354
+2023-02-16,,Nivel ejecutivo,Subintendente,27478,244,29918
+2023-02-16,,Nivel ejecutivo,Patrullero,69908,14198,84106
+2023-02-16,,Nivel ejecutivo,Carabinero,1,0,1
+2023-02-16,,Suboficiales,Sargento Mayor,27,10,37
+2023-02-16,,Suboficiales,Sargento Primero,0,0,0
+2023-02-16,,Suboficiales,Sargento Viceprimero,0,0,0
+2023-02-16,,Suboficiales,Sargento Segundo,0,0,0
+2023-02-16,,Suboficiales,Cabo Primero,0,0,0
+2023-02-16,,Suboficiales,Cabo Segundo,0,0,0
+2023-02-16,,Agentes,Agentes,202,3,205
+2023-02-16,,En formacion,Alferez,3,5,8
+2023-02-16,,En formacion,Cadetes,238,129,367
+2023-02-16,,En formacion,Alumno,3561,2732,6293
+2023-02-16,,Servicio militar,Auxiliares de Policía,8424,6255,14679
+2023-02-16,,Personal no uniformado,PERSONAL NO UNIFORMADO,1355,297,4325
