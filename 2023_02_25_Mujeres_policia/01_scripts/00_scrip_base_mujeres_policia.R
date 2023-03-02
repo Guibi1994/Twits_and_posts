@@ -12,15 +12,16 @@
 # Acrónimos:
   # PNC: Policia Nacional de Colombia
 
+setwd("2023_02_25_Mujeres_policia")
+
 # 0. librerias ----
 library(dplyr)
 library(ggplot2)
 library(stringr)
-library(ggtext)
-library(gr)
 library(waffle)
 
-setwd("2023_02_25_Mujeres_policia")
+
+
 
 # 1. Cargar datos ----
 a0_raw_personal <- read.csv("00_data/mc01_planta_personal.csv") %>% 
@@ -28,14 +29,12 @@ a0_raw_personal <- read.csv("00_data/mc01_planta_personal.csv") %>%
   mutate(fecha = as.Date(fecha))
 
 
-
 # 2. Producción de gráficos ----
-## 2.2. Partiipación hoy
-
-waffle(c(Muejres=16,Hombres = 84),
-       colors = c("purple","grey70")) +
+## 2.2. Participación hoy
+waffle(c(Mujeres=16,Hombres = 84),
+       colors = c("purple","grey70"), size = 2) +
   coord_flip()+
-  labs(title = "Distribución de géneros en la Policia Nacional para\nel año 2023",
+  labs(title = "Participación de la mujer en la Policia Nacional para\nel año 2023",
        subtitle = "Fuente: Observatorio del Direccionamiento del Talento Humano de la\nPolicia Nacional de Colombia\n@GuiborCamargo",
        y = "",x = "", caption = "@GuiborCamargo",color = "")+
   theme_minimal()+
