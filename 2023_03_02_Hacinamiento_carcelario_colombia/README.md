@@ -2,8 +2,10 @@
 
 [\@GuiborCamargo](https://twitter.com/GuiborCamargo)
 
+🧵1/6
+
 A propósito del debate [\@petrogustavo](https://twitter.com/petrogustavo) vs [\@nayibbukele](https://twitter.com/nayibbukele) , aparece nuevamente el tema carcelario.
-Pero \.... ¿cómo estamos en Colombia segun cifras del [\@INPEC_Colombia](https://twitter.com/INPEC_Colombia) ? ![🧵](https://abs-0.twimg.com/emoji/v2/svg/1f9f5.svg "Hilo"){alt="🧵"}🧵1/6
+Pero \.... ¿cómo estamos en Colombia segun cifras del [\@INPEC_Colombia](https://twitter.com/INPEC_Colombia) ?
 
 Hoy en dia tenemos una capacida instalada de 81,381 presos. Sin emabargo hay en nuestras carceles 98,960.
 
@@ -31,7 +33,7 @@ Dos cosas ensenciales:
 
 🧵5/6
 
-2\. Aca en Colombia tambien hay una situación crítica de DDHH en las carceles, y sobre todo falta de buena infrastructura carcelaria. No se q tanto esto este n la agenda de Twiter de \@petrogustavo 🤔🤔?
+2\. Aca en Colombia tambien hay una situación crítica de DDHH en las carceles, y sobre todo falta de buena infrastructura carcelaria. No se q tanto esto este n la agenda de Twiter de \@petrogustavo?
 
 🧵6/6
 
