@@ -29,7 +29,9 @@ Dos cosas ensenciales:
 
 1. Las condiciones carcelarias estan directamente relacioanadas con la reincidencia, ergo con la seguridad de todos, sino preguntenle a [\@SantiagoTobon](https://twitter.com/SantiagoTobon)
 
-🧵5/6 2. Aca en Colombia tambien hay una situación crítica de DDHH en las carceles, y sobre todo falta de buena infrastructura carcelaria. No se q tanto esto este n la agenda de Twiter de [\@petrogustavo](https://twitter.com/petrogustavo) ![🤔](https://abs-0.twimg.com/emoji/v2/svg/1f914.svg "Rostro pensativo"){alt="🤔"}![🤔](https://abs-0.twimg.com/emoji/v2/svg/1f914.svg "Rostro pensativo"){alt="🤔"}?
+🧵5/6
+
+2\. Aca en Colombia tambien hay una situación crítica de DDHH en las carceles, y sobre todo falta de buena infrastructura carcelaria. No se q tanto esto este n la agenda de Twiter de \@petrogustavo 🤔🤔?
 
 🧵6/6
 
