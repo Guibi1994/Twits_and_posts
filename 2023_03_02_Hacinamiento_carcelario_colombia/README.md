@@ -33,7 +33,7 @@ Dos cosas ensenciales:
 
 🧵5/6
 
-2\. Aca en Colombia tambien hay una situación crítica de DDHH en las carceles, y sobre todo falta de buena infrastructura carcelaria. No se q tanto esto este n la agenda de Twiter de \@petrogustavo?
+2\. Aca en Colombia tambien hay una situación crítica de DDHH en las carceles, y sobre todo falta de buena infrastructura carcelaria. No se q tanto esto este n la agenda de Twiter de \@petrogustavo 🤔🤔?
 
 🧵6/6
 
