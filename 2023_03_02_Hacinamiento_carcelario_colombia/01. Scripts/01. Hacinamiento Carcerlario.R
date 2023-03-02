@@ -104,6 +104,7 @@ a1_carceles_cooked %>%
        subtitle = "@GuiborCamargo\nFuente: INPEC 2023",
        color = "Regional del\nINPEC",
        y = "Hacinamiento (%)",x = "Fecha")+
+  theme_minimal()+
   theme(text = element_text(family = "serif"),
         legend.position = "bottom",
         plot.title = element_text(hjust = .5),
