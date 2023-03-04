@@ -7,7 +7,7 @@ Este espacio contiene todos los scripts, gráficas y accesos a datos de las disc
 Esta es la tabla de 😍mini-proyectos 😍 hasta ahora:
 
 | Mini-proyecto                                                                           | Descripción                                                                                          | Fecha de publicación | Likes | Retweets | Vistas | Seguidores |
-|----------|-----------------|---------|----------|----------|----------|----------|
+|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------|-------|----------|--------|------------|
 | [Mujeres en la Policia](https://twitter.com/GuiborCamargo/status/1629852383260835840)   | Análisis de la evolución de tasa de participación de las mujeres en la Policia Nacional de Colombia. | 2023-02-26 (09:34)   | 14    | 2        | 981    | 780-780    |
 | [Hacinamiento carcelario](https://twitter.com/GuiborCamargo/status/1631324147614720001) | Análisis del hacinamiento en carcelario en Colombia, y de su distribución por regionales del INPEC   | 2023-03-03 (11:02)   | 62    | 19       | 12,296 | 780-790    |
 |                                                                                         |                                                                                                      |                      |       |          |        |            |
