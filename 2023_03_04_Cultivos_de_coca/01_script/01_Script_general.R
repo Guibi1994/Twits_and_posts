@@ -8,6 +8,9 @@ library(stringr)
 a0_coca_raw <- RSocrata::read.socrata("https://www.datos.gov.co/resource/acs4-3wgp.json")
 
 
+# https://datacornering.com/how-to-use-an-image-in-a-chart-background-in-r/
+# https://datacornering.com/how-to-add-gif-animation-to-plot-in-r/
+
 
 # 2. Curación de datos 
 a1_coca <- a0_coca_raw %>% 
