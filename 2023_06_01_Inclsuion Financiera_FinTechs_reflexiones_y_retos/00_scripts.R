@@ -6,15 +6,13 @@ library(dplyr)
 library(ggplot2)
 library(googlesheets4)
 library(stringr)
-setwd("2023_06_01_Inclsuion Financiera_FinTechs_reflexiones_y_retos/",
-      shee)
+setwd("2023_06_01_Inclsuion Financiera_FinTechs_reflexiones_y_retos/")
 
 a0_macro <- read_sheet("https://docs.google.com/spreadsheets/d/15yO4Fn3y3MKIapMKQKpwBZfGLxDDkIjFHBFYZZ7H1u4/edit?usp=sharing")
 a1_calidad <- read_sheet("https://docs.google.com/spreadsheets/d/15yO4Fn3y3MKIapMKQKpwBZfGLxDDkIjFHBFYZZ7H1u4/edit?usp=sharing",
                         sheet = 2)
-a1_calidad <- read_sheet("https://docs.google.com/spreadsheets/d/15yO4Fn3y3MKIapMKQKpwBZfGLxDDkIjFHBFYZZ7H1u4/edit?usp=sharing",
-                         sheet = 2)
-
+a2_trenging <- read_sheet("https://docs.google.com/spreadsheets/d/15yO4Fn3y3MKIapMKQKpwBZfGLxDDkIjFHBFYZZ7H1u4/edit?usp=sharing",
+                          sheet = 4)
 
 
 # 1. Indicadores Macro ----
@@ -58,3 +56,40 @@ a1_calidad %>%
 
 ggsave("01_plots/02_evalucion_calidad_creditos_consumo.png",
        h = 4, w = 8)
+
+# 3. Tending info google ----
+a2_trenging %>% 
+  ## 3.1. Arreglar fecha
+  mutate(Month = paste0(
+    ### Año
+    "20",substr(Month,9,10),"-",
+    ### Mes y dia
+    substr(Month, 6,7),"-","01"),
+    Month = as.Date(Month)) %>%
+  reshape2::melt(id.vars = "Month") %>% 
+  mutate(variable = str_replace_all(variable,"_"," ")) %>% 
+  # 3.1. Plot
+  ggplot(aes(Month, value, color = variable)) +
+  geom_point()+
+  geom_path()+
+  theme_minimal()+
+  scale_x_date(breaks = scales::pretty_breaks(n = 10))+
+  theme(legend.position = "bottom")+
+  labs(y = "Índice de interes en búsquedas\n(Google)",
+       x = "Año", color = "")
+ggsave("01_plots/03_trending_search_google.png",
+       h = 4, w = 8)
+
+
+nchar(
+"Los bancos disminuye el riesgo para los ahorradores; las FinTech buscan capital de riesgo.fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
+
+
+
+nchar("Los bancos disminuyen el reisgo a los ahorradores; las FinTech buscan atraer inversores que se expogan al riesgo")
+
+
+
+
+
+
