@@ -74,22 +74,14 @@ a2_trenging %>%
   geom_path()+
   theme_minimal()+
   scale_x_date(breaks = scales::pretty_breaks(n = 10))+
-  theme(legend.position = "bottom")+
+  theme(legend.position = "bottom",
+        plot.title = element_text(hjust = .5))+
   labs(y = "Índice de interes en búsquedas\n(Google)",
-       x = "Año", color = "")
+       x = "Año", color = "",
+       title = "Evolución de las búsquedas de algunas de las\nFinTech más relevantes en Colombia",
+       caption = "Fuente: Google Trends.")
 ggsave("01_plots/03_trending_search_google.png",
        h = 4, w = 8)
-
-
-nchar(
-"Los bancos disminuye el riesgo para los ahorradores; las FinTech buscan capital de riesgo.fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
-
-
-
-nchar("Los bancos disminuyen el reisgo a los ahorradores; las FinTech buscan atraer inversores que se expogan al riesgo")
-
-
-
 
 
 
