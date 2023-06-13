@@ -1,4 +1,4 @@
-[![](images/La_Silla_Vacia_logo.svg-01.png){width="307"}](https://www.lasillavacia.com/historias/historias-silla-llena/revolucion-fintech-de-microcreditos-digitales-lo-mitico-y-lo-veridico/)
+[![](images/La_Silla_Vacia_logo.svg-01.png){width="150"}](https://www.lasillavacia.com/historias/historias-silla-llena/revolucion-fintech-de-microcreditos-digitales-lo-mitico-y-lo-veridico/)
 
 # [Revolución FinTech de microcréditos digitales: Lo mítico y lo verídico](https://www.lasillavacia.com/historias/historias-silla-llena/revolucion-fintech-de-microcreditos-digitales-lo-mitico-y-lo-veridico/)
 
